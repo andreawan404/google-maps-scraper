@@ -1,0 +1,36 @@
+# Environment
+.env
+*.env
+
+# Output (data sensitif, besar)
+output/*.csv
+output/*.db
+output/*.log
+output/*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+.venv/
+venv/
+env/
+
+# Playwright
+.playwright/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Test cache
+.pytest_cache/
+
+# Mount folder (sistem)
+mnt/
+
+# OS
+.DS_Store
+Thumbs.db
