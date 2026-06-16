@@ -32,7 +32,7 @@ Output berupa file CSV dengan data kontak lengkap per bisnis.
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/aanandreawan/google-maps-scraper.git
+git clone https://github.com/aanandreawan404/google-maps-scraper.git
 cd google-maps-scraper
 
 # 2. Install dependencies
